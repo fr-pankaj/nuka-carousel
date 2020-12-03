@@ -1,6 +1,9 @@
 ### SublimeText ###
 *.sublime-workspace
 
+### IntelliJ
+.idea/
+
 ### OSX ###
 .DS_Store
 .AppleDouble
@@ -31,7 +34,5 @@ node_modules/
 bower_components/
 .tmp
 dist
-es
-lib
 yarn-error.log*
 package-lock.json
